@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-kitchen-sink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.3"
+  }
+}
